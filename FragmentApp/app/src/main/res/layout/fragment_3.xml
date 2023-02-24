@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="700dp"
+    android:background="#5E35B1"
+    tools:context=".Fragment1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Fragment 3"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:fontFamily="@font/robotoslab"
+        />
+
+</FrameLayout>
